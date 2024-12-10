@@ -2,6 +2,7 @@
   "name": "@plnkr/starter-react",
   "version": "1.0.2",
   "description": "React starter template",
+  "homepage": "./",
   "dependencies": {
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
